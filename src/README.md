@@ -18,7 +18,7 @@ This is a simple React application that demonstrates basic Create, Read, Update,
 
 <h4>How to Run the Application</h4>
 <h5>Clone this repository to your local machine:</h5>
-git clone https://github.com/mrudh/REST_APIs_USERS_DATABASE.git
+git clone https://github.com/mrudh/CRUD_APP_with_Axios.git
 
 <h5>Navigate to the project directory:</h5>
 cd your-repo
